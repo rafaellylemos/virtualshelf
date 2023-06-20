@@ -54,3 +54,14 @@ width: 750px;
   right: 280px; 
 
 }
+@media (max-width: 800px) {
+  .responsive-input {
+    width: 100%;
+    margin: 5px 0;
+  }
+
+  .box-table {
+    overflow-x: auto;
+    width: 100%;
+  }
+}

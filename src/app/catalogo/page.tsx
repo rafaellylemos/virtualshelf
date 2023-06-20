@@ -78,7 +78,7 @@ export default function Catalogo() {
   };
 
   return (
-    <div className="flex flex-col gap-2 bg-white text-black items-center justify-center h-full">
+    <div className="geral flex flex-col gap-2 bg-white text-black items-center justify-center h-full">
       
       <table className="box-table flex flex-col mt-32 mb-5 divide-y divide-gray-200 font-thin">
         <thead>
